@@ -1,0 +1,6 @@
+apiVersion: v2
+name: openvscode-server
+description: A Helm chart for openvscode-server
+type: application
+version: 0.0.1
+appVersion: "1.63.0"
